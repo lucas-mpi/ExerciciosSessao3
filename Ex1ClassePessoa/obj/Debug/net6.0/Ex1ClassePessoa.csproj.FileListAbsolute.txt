@@ -1,0 +1,14 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex1ClassePessoa\bin\Debug\net6.0\Ex1ClassePessoa.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex1ClassePessoa\bin\Debug\net6.0\Ex1ClassePessoa.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex1ClassePessoa\bin\Debug\net6.0\Ex1ClassePessoa.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex1ClassePessoa\bin\Debug\net6.0\Ex1ClassePessoa.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex1ClassePessoa\bin\Debug\net6.0\Ex1ClassePessoa.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex1ClassePessoa\obj\Debug\net6.0\Ex1ClassePessoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex1ClassePessoa\obj\Debug\net6.0\Ex1ClassePessoa.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex1ClassePessoa\obj\Debug\net6.0\Ex1ClassePessoa.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex1ClassePessoa\obj\Debug\net6.0\Ex1ClassePessoa.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex1ClassePessoa\obj\Debug\net6.0\Ex1ClassePessoa.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex1ClassePessoa\obj\Debug\net6.0\refint\Ex1ClassePessoa.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex1ClassePessoa\obj\Debug\net6.0\Ex1ClassePessoa.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex1ClassePessoa\obj\Debug\net6.0\Ex1ClassePessoa.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex1ClassePessoa\obj\Debug\net6.0\ref\Ex1ClassePessoa.dll

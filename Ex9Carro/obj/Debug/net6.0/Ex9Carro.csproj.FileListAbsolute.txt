@@ -1,0 +1,14 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex9Carro\bin\Debug\net6.0\Ex9Carro.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex9Carro\bin\Debug\net6.0\Ex9Carro.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex9Carro\bin\Debug\net6.0\Ex9Carro.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex9Carro\bin\Debug\net6.0\Ex9Carro.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex9Carro\bin\Debug\net6.0\Ex9Carro.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex9Carro\obj\Debug\net6.0\Ex9Carro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex9Carro\obj\Debug\net6.0\Ex9Carro.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex9Carro\obj\Debug\net6.0\Ex9Carro.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex9Carro\obj\Debug\net6.0\Ex9Carro.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex9Carro\obj\Debug\net6.0\Ex9Carro.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex9Carro\obj\Debug\net6.0\refint\Ex9Carro.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex9Carro\obj\Debug\net6.0\Ex9Carro.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex9Carro\obj\Debug\net6.0\Ex9Carro.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex9Carro\obj\Debug\net6.0\ref\Ex9Carro.dll

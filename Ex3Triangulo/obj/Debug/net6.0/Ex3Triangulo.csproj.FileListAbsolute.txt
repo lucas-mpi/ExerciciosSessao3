@@ -1,0 +1,14 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex3Triangulo\bin\Debug\net6.0\Ex3Triangulo.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex3Triangulo\bin\Debug\net6.0\Ex3Triangulo.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex3Triangulo\bin\Debug\net6.0\Ex3Triangulo.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex3Triangulo\bin\Debug\net6.0\Ex3Triangulo.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex3Triangulo\bin\Debug\net6.0\Ex3Triangulo.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex3Triangulo\obj\Debug\net6.0\Ex3Triangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex3Triangulo\obj\Debug\net6.0\Ex3Triangulo.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex3Triangulo\obj\Debug\net6.0\Ex3Triangulo.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex3Triangulo\obj\Debug\net6.0\Ex3Triangulo.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex3Triangulo\obj\Debug\net6.0\Ex3Triangulo.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex3Triangulo\obj\Debug\net6.0\refint\Ex3Triangulo.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex3Triangulo\obj\Debug\net6.0\Ex3Triangulo.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex3Triangulo\obj\Debug\net6.0\Ex3Triangulo.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex3Triangulo\obj\Debug\net6.0\ref\Ex3Triangulo.dll

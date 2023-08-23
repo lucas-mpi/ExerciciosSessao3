@@ -1,0 +1,14 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex5MaiorIdade\bin\Debug\net6.0\Ex5MaiorIdade.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex5MaiorIdade\bin\Debug\net6.0\Ex5MaiorIdade.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex5MaiorIdade\bin\Debug\net6.0\Ex5MaiorIdade.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex5MaiorIdade\bin\Debug\net6.0\Ex5MaiorIdade.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex5MaiorIdade\bin\Debug\net6.0\Ex5MaiorIdade.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex5MaiorIdade\obj\Debug\net6.0\Ex5MaiorIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex5MaiorIdade\obj\Debug\net6.0\Ex5MaiorIdade.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex5MaiorIdade\obj\Debug\net6.0\Ex5MaiorIdade.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex5MaiorIdade\obj\Debug\net6.0\Ex5MaiorIdade.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex5MaiorIdade\obj\Debug\net6.0\Ex5MaiorIdade.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex5MaiorIdade\obj\Debug\net6.0\refint\Ex5MaiorIdade.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex5MaiorIdade\obj\Debug\net6.0\Ex5MaiorIdade.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex5MaiorIdade\obj\Debug\net6.0\Ex5MaiorIdade.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex5MaiorIdade\obj\Debug\net6.0\ref\Ex5MaiorIdade.dll

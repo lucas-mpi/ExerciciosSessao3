@@ -1,0 +1,14 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex7Retangulo\bin\Debug\net6.0\Ex7Retangulo.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex7Retangulo\bin\Debug\net6.0\Ex7Retangulo.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex7Retangulo\bin\Debug\net6.0\Ex7Retangulo.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex7Retangulo\bin\Debug\net6.0\Ex7Retangulo.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex7Retangulo\bin\Debug\net6.0\Ex7Retangulo.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex7Retangulo\obj\Debug\net6.0\Ex7Retangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex7Retangulo\obj\Debug\net6.0\Ex7Retangulo.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex7Retangulo\obj\Debug\net6.0\Ex7Retangulo.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex7Retangulo\obj\Debug\net6.0\Ex7Retangulo.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex7Retangulo\obj\Debug\net6.0\Ex7Retangulo.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex7Retangulo\obj\Debug\net6.0\refint\Ex7Retangulo.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex7Retangulo\obj\Debug\net6.0\Ex7Retangulo.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex7Retangulo\obj\Debug\net6.0\Ex7Retangulo.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex7Retangulo\obj\Debug\net6.0\ref\Ex7Retangulo.dll

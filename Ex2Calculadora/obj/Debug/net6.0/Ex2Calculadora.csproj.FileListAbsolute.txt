@@ -1,0 +1,14 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex2Calculadora\bin\Debug\net6.0\Ex2Calculadora.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex2Calculadora\bin\Debug\net6.0\Ex2Calculadora.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex2Calculadora\bin\Debug\net6.0\Ex2Calculadora.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex2Calculadora\bin\Debug\net6.0\Ex2Calculadora.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex2Calculadora\bin\Debug\net6.0\Ex2Calculadora.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex2Calculadora\obj\Debug\net6.0\Ex2Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex2Calculadora\obj\Debug\net6.0\Ex2Calculadora.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex2Calculadora\obj\Debug\net6.0\Ex2Calculadora.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex2Calculadora\obj\Debug\net6.0\Ex2Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex2Calculadora\obj\Debug\net6.0\Ex2Calculadora.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex2Calculadora\obj\Debug\net6.0\refint\Ex2Calculadora.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex2Calculadora\obj\Debug\net6.0\Ex2Calculadora.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex2Calculadora\obj\Debug\net6.0\Ex2Calculadora.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex2Calculadora\obj\Debug\net6.0\ref\Ex2Calculadora.dll

@@ -1,0 +1,14 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex8Funcionario\bin\Debug\net6.0\Ex8Funcionario.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex8Funcionario\bin\Debug\net6.0\Ex8Funcionario.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex8Funcionario\bin\Debug\net6.0\Ex8Funcionario.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex8Funcionario\bin\Debug\net6.0\Ex8Funcionario.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex8Funcionario\bin\Debug\net6.0\Ex8Funcionario.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex8Funcionario\obj\Debug\net6.0\Ex8Funcionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex8Funcionario\obj\Debug\net6.0\Ex8Funcionario.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex8Funcionario\obj\Debug\net6.0\Ex8Funcionario.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex8Funcionario\obj\Debug\net6.0\Ex8Funcionario.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex8Funcionario\obj\Debug\net6.0\Ex8Funcionario.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex8Funcionario\obj\Debug\net6.0\refint\Ex8Funcionario.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex8Funcionario\obj\Debug\net6.0\Ex8Funcionario.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex8Funcionario\obj\Debug\net6.0\Ex8Funcionario.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Exercícios sessão 3 e 4\sessao3\Ex8Funcionario\obj\Debug\net6.0\ref\Ex8Funcionario.dll

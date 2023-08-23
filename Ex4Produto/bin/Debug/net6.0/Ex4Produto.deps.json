@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ex4Produto/1.0.0": {
+        "runtime": {
+          "Ex4Produto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex4Produto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
